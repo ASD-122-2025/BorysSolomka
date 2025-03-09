@@ -1,1 +1,2 @@
-# BorysSolomka_LWM
+# BorysSolomka_LaWoMan
+LaWoMan - Laboratory Works Manager
